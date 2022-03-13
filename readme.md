@@ -1,4 +1,8 @@
 # hcaptcha
+### install
+```
+npm i https://gitlab.com/neumaticc/captcha
+```
 ### example usage
 ```js
 const Captcha = require("@neumatic/captcha-monster")
