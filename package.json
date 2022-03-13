@@ -1,0 +1,13 @@
+{
+  "name": "@neumatic/captcha-monster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "neumatic",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
